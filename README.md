@@ -1,6 +1,6 @@
 # Math Libraries Sample Contest
 
-The repository will host submissions for contests to extend the set of samples that are provided with the [CUDA Math Libraries](https://github.com/NVIDIA/CUDALibrarySamples) created by the developer community. 
+This repository will host submissions for contests to extend the set of samples that are provided with the [CUDA Math Libraries](https://github.com/NVIDIA/CUDALibrarySamples) created by the developer community. 
 
 Contestants will be asked to provide a sample application that illustrates some aspects of using the Math Libraries.
 
@@ -9,14 +9,14 @@ By entering this Contest, you agree to be bound by these Official Rules and to c
 
 NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO ENTER THIS CONTEST. THIS CONTEST IS VOID WHERE RESTRICTED OR PROHIBITED BY LAW. OPEN TO LEGAL RESIDENTS OF THE UNITED STATES OF AMERICA (EXCLUDING PUERTO RICO AND ITS OTHER TERRITORIES AND POSSESSIONS) AND POLAND.
 
-### Sponser
+### Sponsor
 This Contest is sponsored by NVIDIA Corporation, on behalf of itself and its affiliates, with an address at 2788 San Tomas Expressway, Santa Clara, CA 95051, U.S.A. (hereinafter “NVIDIA” or “Sponsor”). 
 
 ### Eligibility
 You must be a resident of the UNITED STATES OF AMERICA (EXCLUDING PUERTO RICO AND ITS OTHER TERRITORIES AND POSSESSIONS) OR POLAND and eighteen (18) years of age or older to be eligible to participate in this Contest. This Contest is open to individuals only. No team entries and no corporate or institutional entries are permitted in this Contest. Employees of Sponsor, its affiliates, and their respective contractors, service providers and professional advisors connected with this Contest (“Sponsor Related Parties”), as well as members of their immediate families and/or households, are NOT eligible to enter.
 
 ### The Challenge
-This Contest involves the following challenge: The entrant must write application software (“Content”) whose main function is to illustrate some aspect of using the features of the math and image processing libraries being part of NVIDIA® Math Libraries. Content are for educational purposes and must adhere to the criteria listed below:
+This Contest involves the following challenge: The entrant must write application software (“Content”) whose main function is to illustrate some aspect of using the features of the math and image processing libraries being part of NVIDIA® Math Libraries. Content is for educational purposes and must adhere to the criteria listed below:
 
 1. Content must use at least one of the APIs from the list below: 
     * [cuBLAS](https://docs.nvidia.com/cuda/cublas/index.html)
@@ -29,11 +29,9 @@ This Contest involves the following challenge: The entrant must write applicatio
     * [NPP](https://docs.nvidia.com/cuda/npp/index.html)
     * [nvJPEG](https://docs.nvidia.com/cuda/nvjpeg/index.html)
     * [nvJPEG2000](https://docs.nvidia.com/cuda/nvjpeg2000/userguide.html)
-
-    1. Math Library Device Extensions
+    * Math Library Device Extensions
         * [MathDx](https://developer.nvidia.com/mathdx)
-
-    2. Multi-Node, Multi-GPU Libraries
+    * Multi-Node, Multi-GPU Libraries
         * [cuSOLVERMp](https://docs.nvidia.com/hpc-sdk/cusolvermp/index.html)
         * [cuFFTMp](https://docs.nvidia.com/hpc-sdk/cufftmp/index.html)
 
@@ -133,7 +131,7 @@ The winners of each one (1) Jetson Nano Developer Kit will be announced on the C
 
 ### Prizes: Odds of Winning
 The prizes of this Contest are as follows: 
-  * Up to ten (10) winners will receive one (1) NVIDIA Jetson Nano Developer Kit (SKU: 945-13541-0001-000) with a MSRP of $XXX.
+  * Up to ten (10) winners will receive one (1) NVIDIA Jetson Nano Developer Kit (SKU: 945-13541-0001-000) with a MSRP of $54
 
 The prizes are not assignable or transferable. Brand and model of prizes are subject to change by NVIDIA at any time for any reason and substitutions will be of equal or greater value. NVIDIA is not responsible or liable for the distribution of any prizes once they are shipped to the winner. The prizes offered, and the entrants that are successful, are not distinguishable by country and do not hold any bias and are equally attainable for all participating countries and their entrants (within compliance of region-specific hardware). THIS CONTEST HAS NOT PREVIOUSLY BEEN OFFERED. Odds of winning depend on the number of eligible entries received.
 
