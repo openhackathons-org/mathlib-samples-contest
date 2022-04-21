@@ -19,4 +19,4 @@
 - [ ] Submit PR
   - [ ] Tag @mnicely & @trybicki-nv as reviewer
   - [ ] Tag yourself as assignee
-  - [ ] Tag appropiate Milestone
+  - [ ] Tag appropriate Milestone
