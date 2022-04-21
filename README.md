@@ -1,4 +1,4 @@
-# Math Libraries Sample Contest
+# Math Libraries Samples Contest
 
 This repository will host submissions for contests to extend the set of samples that are provided with the [CUDA Math Libraries](https://github.com/NVIDIA/CUDALibrarySamples) created by the developer community. 
 
