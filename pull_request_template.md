@@ -15,3 +15,8 @@
   - [ ] Tested with compute-sanitizer (output provided)
   - [ ] Error checking
   - [ ] Comment
+
+- [ ] Submit PR
+  - [ ] Tag @mnicely & @trybicki-nv as reviewer
+  - [ ] Tag yourself as assignee
+  - [ ] Tag appropiate Milestone
