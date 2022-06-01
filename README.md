@@ -6,7 +6,7 @@ Contestants will be asked to provide a sample application that illustrates some 
 
 Deadline: July, 15th (see [Official Rules: Entry period](https://github.com/openhackathons-org/mathlib-samples-contest/wiki/Official-Rules#entry-period) for details)
 
-For [Official Rules](https://github.com/gpuhackathons-org/mathlib-samples-contest/wiki/Official-Rules) and [Example](https://github.com/gpuhackathons-org/mathlib-samples-contest/wiki/Example-Submission) please refer to our [Wiki](https://github.com/gpuhackathons-org/mathlib-samples-contest/wiki)
+For full [Official Rules](https://github.com/gpuhackathons-org/mathlib-samples-contest/wiki/Official-Rules) and [Example](https://github.com/gpuhackathons-org/mathlib-samples-contest/wiki/Example-Submission) please refer to our [Wiki](https://github.com/gpuhackathons-org/mathlib-samples-contest/wiki)
 
 Contestants have a chance to win a [NVIDIA Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 
