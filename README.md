@@ -4,7 +4,7 @@ This repository will host submissions for contests to extend the set of samples 
 
 Contestants will be asked to provide a sample application that illustrates some aspects of using the Math Libraries.
 
-Deadline: July, 15th (see [Official Rules: Entry period](https://github.com/openhackathons-org/mathlib-samples-contest/wiki/Official-Rules#entry-period) for details)
+Deadline: April, 30th (see [Official Rules: Entry period](https://github.com/openhackathons-org/mathlib-samples-contest/wiki/Official-Rules#entry-period) for details)
 
 For full [Official Rules](https://github.com/gpuhackathons-org/mathlib-samples-contest/wiki/Official-Rules) and [Example](https://github.com/gpuhackathons-org/mathlib-samples-contest/wiki/Example-Submission) please refer to our [Wiki](https://github.com/gpuhackathons-org/mathlib-samples-contest/wiki)
 
